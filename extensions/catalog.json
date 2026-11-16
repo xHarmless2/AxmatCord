@@ -1,0 +1,552 @@
+{
+  "api_version": 1,
+  "entries": [
+    {
+      "manifest": {
+        "api_version": 1,
+        "id": "forest-piano",
+        "name": "Forest Piano",
+        "version": "1.0.0",
+        "author": "Atsukoro",
+        "license": "CC0-1.0",
+        "source": "https://konachan.com/post/show/375564",
+        "kind": "theme",
+        "capabilities": [],
+        "actions": []
+      },
+      "release_url": "https://raw.githubusercontent.com/xHarmless2/AxmatCord/main/extensions/themes/forest-piano.axmatcord-extension",
+      "sha256": "3fffa784b2f406b4ad435fa5804baa1bed9ead9682254546ccf332c2bae12505",
+      "download_bytes": 6452658,
+      "source_commit": "3abae434ebd9545fdbed044613653f917a27c19f",
+      "preview": {
+        "url": "https://raw.githubusercontent.com/xHarmless2/AxmatCord/main/extensions/previews/forest-piano.png",
+        "sha256": "f3e8df1046c03eeed4a477530c5dec114ee582caa0ec4bb28e24b4131b8ce29f",
+        "download_bytes": 147517
+      }
+    },
+    {
+      "manifest": {
+        "api_version": 1,
+        "id": "axmatcord-forest",
+        "name": "Forest",
+        "version": "1.0.0",
+        "author": "AxmatCord contributors",
+        "license": "MIT OR Apache-2.0",
+        "source": "https://github.com/xHarmless2/AxmatCord",
+        "kind": "theme"
+      },
+      "release_url": "https://raw.githubusercontent.com/xHarmless2/AxmatCord/main/extensions/themes/forest.axmatcord-extension",
+      "sha256": "e2b5bbf741f586e925d2c805d324aa875611b797fc5e5a93270a6c490da700e4",
+      "download_bytes": 1465,
+      "source_commit": "3abae434ebd9545fdbed044613653f917a27c19f",
+      "preview": {
+        "url": "https://raw.githubusercontent.com/xHarmless2/AxmatCord/main/extensions/previews/forest.png",
+        "sha256": "63bcef47c3302bf2303616eb5219829dc021a4de1c2dfee69cf6e57288d22094",
+        "download_bytes": 49862
+      }
+    },
+    {
+      "manifest": {
+        "api_version": 1,
+        "id": "golden-theme",
+        "name": "Golden Theme",
+        "version": "1.0.0",
+        "author": "a1.lol",
+        "license": "MIT",
+        "source": "https://github.com/xHarmless2/AxmatCord",
+        "kind": "theme"
+      },
+      "release_url": "https://raw.githubusercontent.com/xHarmless2/AxmatCord/main/extensions/themes/golden.axmatcord-extension",
+      "sha256": "6483b454a53358cabaebc4d1d1b27120ad2848eb636bb4dcb5021b78a2af70f9",
+      "download_bytes": 1799,
+      "source_commit": "3abae434ebd9545fdbed044613653f917a27c19f",
+      "preview": {
+        "url": "https://raw.githubusercontent.com/xHarmless2/AxmatCord/main/extensions/previews/golden.png",
+        "sha256": "304c680005ce26e6a09de384fe0622d41040efe9b880961688be286c88c6317d",
+        "download_bytes": 50595
+      }
+    },
+    {
+      "manifest": {
+        "api_version": 1,
+        "id": "black-theme",
+        "name": "BlackTheme",
+        "version": "1.1.0",
+        "author": "a1.lol",
+        "license": "MIT",
+        "source": "https://github.com/xHarmless2/AxmatCord",
+        "kind": "theme"
+      },
+      "release_url": "https://raw.githubusercontent.com/xHarmless2/AxmatCord/main/extensions/themes/katana.axmatcord-extension",
+      "sha256": "610b97a1547397f0b13f32ca9fc94d5e63e4fb8d4bfe260f4697e2637bed91fb",
+      "download_bytes": 999,
+      "source_commit": "3abae434ebd9545fdbed044613653f917a27c19f",
+      "preview": {
+        "url": "https://raw.githubusercontent.com/xHarmless2/AxmatCord/main/extensions/previews/katana.png",
+        "sha256": "eeed18e0f2018fe05db629786a57a7b0a425e47d884c11c5cd983e059f797b16",
+        "download_bytes": 49784
+      }
+    },
+    {
+      "manifest": {
+        "api_version": 1,
+        "id": "axmatcord-latte",
+        "name": "Latte",
+        "version": "1.0.0",
+        "author": "AxmatCord contributors",
+        "license": "MIT OR Apache-2.0",
+        "source": "https://github.com/xHarmless2/AxmatCord",
+        "kind": "theme"
+      },
+      "release_url": "https://raw.githubusercontent.com/xHarmless2/AxmatCord/main/extensions/themes/latte.axmatcord-extension",
+      "sha256": "abc88a29b758880ea15a863b64ea238cec753df47f0fb269826fe778d27efd8b",
+      "download_bytes": 1463,
+      "source_commit": "3abae434ebd9545fdbed044613653f917a27c19f",
+      "preview": {
+        "url": "https://raw.githubusercontent.com/xHarmless2/AxmatCord/main/extensions/previews/latte.png",
+        "sha256": "5378c118c475b06e17d65bfdace5558333e526369302ef374f24f8043b429c78",
+        "download_bytes": 49587
+      }
+    },
+    {
+      "manifest": {
+        "api_version": 1,
+        "id": "axmatcord-midnight",
+        "name": "Midnight",
+        "version": "1.0.0",
+        "author": "AxmatCord contributors",
+        "license": "MIT OR Apache-2.0",
+        "source": "https://github.com/xHarmless2/AxmatCord",
+        "kind": "theme"
+      },
+      "release_url": "https://raw.githubusercontent.com/xHarmless2/AxmatCord/main/extensions/themes/midnight.axmatcord-extension",
+      "sha256": "127718a48b3b526e8d54c6e2ce6f0a3c65e7a307616b56c52b4d14349be65eb4",
+      "download_bytes": 1469,
+      "source_commit": "3abae434ebd9545fdbed044613653f917a27c19f",
+      "preview": {
+        "url": "https://raw.githubusercontent.com/xHarmless2/AxmatCord/main/extensions/previews/midnight.png",
+        "sha256": "136739bd99dd14b0fa667d1cba937807058e0e1ce0725dd3eb17995f42ae0fff",
+        "download_bytes": 49817
+      }
+    },
+    {
+      "manifest": {
+        "api_version": 1,
+        "id": "obsidian-theme",
+        "name": "Obsidian Theme",
+        "version": "1.0.0",
+        "author": "a1.lol",
+        "license": "MIT",
+        "source": "https://github.com/xHarmless2/AxmatCord",
+        "kind": "theme"
+      },
+      "release_url": "https://raw.githubusercontent.com/xHarmless2/AxmatCord/main/extensions/themes/obsidian.axmatcord-extension",
+      "sha256": "9f07e53ee109d0ea1fde0534fbc9eb3bebdbe776d46349680d8dee9aaf626150",
+      "download_bytes": 1843,
+      "source_commit": "3abae434ebd9545fdbed044613653f917a27c19f",
+      "preview": {
+        "url": "https://raw.githubusercontent.com/xHarmless2/AxmatCord/main/extensions/previews/obsidian.png",
+        "sha256": "f2afabac07d4a9ea80060856f6d9346bdad5fbc05c3e1ffaff8a1c207863ebce",
+        "download_bytes": 50007
+      }
+    },
+    {
+      "manifest": {
+        "api_version": 1,
+        "id": "axmatcord-ocean",
+        "name": "Ocean",
+        "version": "1.0.0",
+        "author": "AxmatCord contributors",
+        "license": "MIT OR Apache-2.0",
+        "source": "https://github.com/xHarmless2/AxmatCord",
+        "kind": "theme"
+      },
+      "release_url": "https://raw.githubusercontent.com/xHarmless2/AxmatCord/main/extensions/themes/ocean.axmatcord-extension",
+      "sha256": "dae37bfdd29827819502a3738c98c69bc21774341757159b9930262a7eec66b1",
+      "download_bytes": 969,
+      "source_commit": "3abae434ebd9545fdbed044613653f917a27c19f",
+      "preview": {
+        "url": "https://raw.githubusercontent.com/xHarmless2/AxmatCord/main/extensions/previews/ocean.png",
+        "sha256": "7fd9532d983c52ec9f86a345d23e2c6822597ca29a34833958be816e0bcc1913",
+        "download_bytes": 85376
+      }
+    },
+    {
+      "manifest": {
+        "api_version": 1,
+        "id": "axmatcord-rose",
+        "name": "Rose",
+        "version": "1.0.0",
+        "author": "AxmatCord contributors",
+        "license": "MIT OR Apache-2.0",
+        "source": "https://github.com/xHarmless2/AxmatCord",
+        "kind": "theme"
+      },
+      "release_url": "https://raw.githubusercontent.com/xHarmless2/AxmatCord/main/extensions/themes/rose.axmatcord-extension",
+      "sha256": "2d8b84d5377ff3e6f2ca6a174c470a7559766f025be2ccdcd8c85a9b91756a97",
+      "download_bytes": 1461,
+      "source_commit": "3abae434ebd9545fdbed044613653f917a27c19f",
+      "preview": {
+        "url": "https://raw.githubusercontent.com/xHarmless2/AxmatCord/main/extensions/previews/rose.png",
+        "sha256": "7d7233cbf80ea0bbd016ac3b8dc59c4c8ea19a1839528fba05179ba1aa88f48b",
+        "download_bytes": 49416
+      }
+    },
+    {
+      "manifest": {
+        "api_version": 1,
+        "id": "soft-white",
+        "name": "Soft White Theme",
+        "version": "1.0.0",
+        "author": "a1.lol",
+        "license": "CC0-1.0",
+        "source": "https://github.com/xHarmless2/AxmatCord",
+        "kind": "theme",
+        "capabilities": [],
+        "actions": []
+      },
+      "release_url": "https://raw.githubusercontent.com/xHarmless2/AxmatCord/main/extensions/themes/soft-white.axmatcord-extension",
+      "sha256": "e2555a9621025270e5bfe8d3f93b41704a12b3b3b60b7dfa724550c7f53f3caf",
+      "download_bytes": 5860523,
+      "source_commit": "3abae434ebd9545fdbed044613653f917a27c19f",
+      "preview": {
+        "url": "https://raw.githubusercontent.com/xHarmless2/AxmatCord/main/extensions/previews/soft-white.png",
+        "sha256": "dbe0d64360c5eba021b03122cae6776a9f05585f5335c47580684e7d3ac73e60",
+        "download_bytes": 110890
+      }
+    },
+    {
+      "manifest": {
+        "api_version": 1,
+        "id": "teal-theme",
+        "name": "Teal Theme",
+        "version": "1.0.0",
+        "author": "a1.lol",
+        "license": "MIT",
+        "source": "https://github.com/xHarmless2/AxmatCord",
+        "kind": "theme"
+      },
+      "release_url": "https://raw.githubusercontent.com/xHarmless2/AxmatCord/main/extensions/themes/teal.axmatcord-extension",
+      "sha256": "d1ea3d682e0f03e32c1f234d207dafbf5c318df3f4e58a5c6ed029d78a82d53b",
+      "download_bytes": 1832,
+      "source_commit": "3abae434ebd9545fdbed044613653f917a27c19f",
+      "preview": {
+        "url": "https://raw.githubusercontent.com/xHarmless2/AxmatCord/main/extensions/previews/teal.png",
+        "sha256": "acd5057f062450eb503fe8de7da80a5e191230b73dcd5a75708c7e6a995c3a5a",
+        "download_bytes": 49871
+      }
+    },
+    {
+      "manifest": {
+        "api_version": 1,
+        "id": "api-proxy",
+        "name": "API Proxy",
+        "version": "1.0.0",
+        "author": "AxmatCord contributors",
+        "license": "MIT OR Apache-2.0",
+        "source": "https://github.com/xHarmless2/AxmatCord-extensions/tree/main/plugins/api-proxy",
+        "kind": "plugin",
+        "capabilities": [
+          "api_proxy",
+          "storage"
+        ],
+        "actions": [
+          {
+            "id": "open",
+            "label": "Configure API proxy",
+            "surface": "panel"
+          },
+          {
+            "id": "apply",
+            "label": "Apply API proxy",
+            "surface": "panel"
+          },
+          {
+            "id": "activate",
+            "label": "Restore API proxy",
+            "surface": "activation"
+          }
+        ]
+      },
+      "release_url": "https://raw.githubusercontent.com/xHarmless2/AxmatCord/main/extensions/plugins/packages/api-proxy.axmatcord-extension",
+      "sha256": "c6ba0d1df5ae940857d0df1dbe38a4c02665a3ad5b21c0876e33e5d399acae1b",
+      "download_bytes": 920987,
+      "source_commit": "3abae434ebd9545fdbed044613653f917a27c19f",
+      "preview": {
+        "url": "https://raw.githubusercontent.com/xHarmless2/AxmatCord/main/extensions/previews/api-proxy.png",
+        "sha256": "dafb7a29dbd07e1dc30ed9757c4ebde3c04d127aabe967842d7e4a9f50dd8a98",
+        "download_bytes": 52481
+      }
+    },
+    {
+      "manifest": {
+        "api_version": 1,
+        "id": "custom-rpc",
+        "name": "Custom Rich Presence",
+        "version": "1.0.0",
+        "author": "AxmatCord contributors",
+        "license": "MIT OR Apache-2.0",
+        "source": "https://github.com/xHarmless2/AxmatCord-extensions/tree/main/plugins/custom-rpc",
+        "kind": "plugin",
+        "capabilities": [
+          "rich_presence",
+          "storage"
+        ],
+        "actions": [
+          {
+            "id": "open",
+            "label": "Edit rich presence",
+            "surface": "panel"
+          },
+          {
+            "id": "preview",
+            "label": "Preview changes",
+            "surface": "panel"
+          },
+          {
+            "id": "apply",
+            "label": "Apply presence",
+            "surface": "panel"
+          },
+          {
+            "id": "stop",
+            "label": "Stop presence",
+            "surface": "panel"
+          },
+          {
+            "id": "reset",
+            "label": "Reset draft",
+            "surface": "panel"
+          },
+          {
+            "id": "activate",
+            "label": "Restore saved presence",
+            "surface": "activation"
+          }
+        ]
+      },
+      "release_url": "https://raw.githubusercontent.com/xHarmless2/AxmatCord/main/extensions/plugins/packages/custom-rpc.axmatcord-extension",
+      "sha256": "927be8bb6bf25d00753a8e9544885b6fd63d902b8f611741641cb6517ff3e134",
+      "download_bytes": 409143,
+      "source_commit": "3abae434ebd9545fdbed044613653f917a27c19f",
+      "preview": {
+        "url": "https://raw.githubusercontent.com/xHarmless2/AxmatCord/main/extensions/previews/custom-rpc.png",
+        "sha256": "4a21862ec37ef346c54d12ec9e20bfff5c7b692604243a5e804b0703ec5a3ce0",
+        "download_bytes": 31921
+      }
+    },
+    {
+      "manifest": {
+        "api_version": 1,
+        "id": "external-search-tools",
+        "name": "External Search Tools",
+        "version": "1.0.3",
+        "author": "Equicord/Vencord contributors; AxmatCord port contributors",
+        "license": "GPL-3.0-or-later",
+        "source": "https://github.com/xHarmless2/AxmatCord/tree/main/extensions/plugins/external-search-tools",
+        "kind": "plugin",
+        "capabilities": [
+          "selected_message",
+          "external_navigation",
+          "storage"
+        ],
+        "actions": [
+          {
+            "id": "translate",
+            "label": "Translate message in browser",
+            "surface": "message"
+          },
+          {
+            "id": "search",
+            "label": "Search message text in browser",
+            "surface": "message"
+          },
+          {
+            "id": "open",
+            "label": "Configure external search tools",
+            "surface": "panel"
+          },
+          {
+            "id": "save",
+            "label": "Save external search tools",
+            "surface": "panel"
+          }
+        ]
+      },
+      "release_url": "https://raw.githubusercontent.com/xHarmless2/AxmatCord/main/extensions/plugins/packages/external-search-tools.axmatcord-extension",
+      "sha256": "1bf9ef0f1b4508ed007b357e94e95a264c2a2bfc209151cf01d30792b7e1b62b",
+      "download_bytes": 1853140,
+      "source_commit": "3abae434ebd9545fdbed044613653f917a27c19f"
+    },
+    {
+      "manifest": {
+        "api_version": 1,
+        "id": "message-delete-protector",
+        "name": "Message delete protector",
+        "version": "1.0.0",
+        "author": "AxmatCord contributors",
+        "license": "MIT OR Apache-2.0",
+        "source": "https://github.com/xHarmless2/AxmatCord",
+        "kind": "plugin",
+        "capabilities": [
+          "deleted_messages"
+        ],
+        "actions": [
+          {
+            "id": "activate",
+            "label": "Protect loaded messages",
+            "surface": "activation"
+          }
+        ]
+      },
+      "release_url": "https://raw.githubusercontent.com/xHarmless2/AxmatCord/main/extensions/plugins/packages/message-delete-protector.axmatcord-extension",
+      "sha256": "8d40f736e95025c38a4f9cce68ab43ec57cc5c5a2eb2c0274b1a0426d39c87f2",
+      "download_bytes": 338115,
+      "source_commit": "3abae434ebd9545fdbed044613653f917a27c19f",
+      "preview": {
+        "url": "https://raw.githubusercontent.com/xHarmless2/AxmatCord/main/extensions/previews/message-delete-protector.png",
+        "sha256": "03c646cf13ce6fe031f5210187e658796949f6c59d5990373ef9fe88dc65deda",
+        "download_bytes": 50215
+      }
+    },
+    {
+      "manifest": {
+        "api_version": 1,
+        "id": "offline-composer-tools",
+        "name": "Offline Composer Tools",
+        "version": "1.0.2",
+        "author": "Equicord/Vencord contributors; AxmatCord port contributors",
+        "license": "GPL-3.0-or-later",
+        "source": "https://github.com/xHarmless2/AxmatCord/tree/main/extensions/plugins/offline-composer-tools",
+        "kind": "plugin",
+        "capabilities": [
+          "composer"
+        ],
+        "actions": [
+          {
+            "id": "clear-urls",
+            "label": "Clear URL trackers",
+            "surface": "composer"
+          },
+          {
+            "id": "unindent",
+            "label": "Unindent code blocks",
+            "surface": "composer"
+          },
+          {
+            "id": "convert-units",
+            "label": "Convert units",
+            "surface": "composer"
+          },
+          {
+            "id": "transform-text",
+            "label": "Transform text",
+            "surface": "composer"
+          },
+          {
+            "id": "character-count",
+            "label": "Character count",
+            "surface": "composer"
+          }
+        ]
+      },
+      "release_url": "https://raw.githubusercontent.com/xHarmless2/AxmatCord/main/extensions/plugins/packages/offline-composer-tools.axmatcord-extension",
+      "sha256": "d8f9b2e8707f8782978c2a3d70cb22b116b090bc94dffd5201d4e4ff3ad1be74",
+      "download_bytes": 1157208,
+      "source_commit": "3abae434ebd9545fdbed044613653f917a27c19f"
+    },
+    {
+      "manifest": {
+        "api_version": 1,
+        "id": "text-commands",
+        "name": "Text Commands",
+        "version": "1.0.1",
+        "author": "Equicord/Vencord contributors; AxmatCord port contributors",
+        "license": "GPL-3.0-or-later",
+        "source": "https://github.com/xHarmless2/AxmatCord/tree/main/extensions/plugins/text-commands",
+        "kind": "plugin",
+        "capabilities": [
+          "composer",
+          "storage"
+        ],
+        "actions": [
+          {
+            "id": "open",
+            "label": "Edit text replacements and tags",
+            "surface": "panel"
+          },
+          {
+            "id": "save-rule",
+            "label": "Save replacement rule",
+            "surface": "panel"
+          },
+          {
+            "id": "delete-rule",
+            "label": "Delete replacement rule",
+            "surface": "panel"
+          },
+          {
+            "id": "save-tag",
+            "label": "Save tag",
+            "surface": "panel"
+          },
+          {
+            "id": "delete-tag",
+            "label": "Delete tag",
+            "surface": "panel"
+          },
+          {
+            "id": "load-rule",
+            "label": "Load selected replacement rule",
+            "surface": "panel"
+          },
+          {
+            "id": "load-tag",
+            "label": "Load selected tag",
+            "surface": "panel"
+          },
+          {
+            "id": "apply-replacements",
+            "label": "Apply replacement rules",
+            "surface": "composer"
+          },
+          {
+            "id": "expand-tag",
+            "label": "Expand tag in draft",
+            "surface": "composer"
+          }
+        ]
+      },
+      "release_url": "https://raw.githubusercontent.com/xHarmless2/AxmatCord/main/extensions/plugins/packages/text-commands.axmatcord-extension",
+      "sha256": "08bb231c675d52fc9028c96150ce54f031addc768fc2d62744eaa3ba01e00d82",
+      "download_bytes": 596366,
+      "source_commit": "3abae434ebd9545fdbed044613653f917a27c19f"
+    },
+    {
+      "manifest": {
+        "api_version": 1,
+        "id": "view-raw-message",
+        "name": "ViewRaw — safe message view",
+        "version": "1.0.1",
+        "author": "Equicord/Vencord contributors; AxmatCord port contributors",
+        "license": "GPL-3.0-or-later",
+        "source": "https://github.com/xHarmless2/AxmatCord/tree/main/extensions/plugins/view-raw-message",
+        "kind": "plugin",
+        "capabilities": [
+          "selected_message"
+        ],
+        "actions": [
+          {
+            "id": "view-raw",
+            "label": "View raw message text",
+            "surface": "message"
+          }
+        ]
+      },
+      "release_url": "https://raw.githubusercontent.com/xHarmless2/AxmatCord/main/extensions/plugins/packages/view-raw-message.axmatcord-extension",
+      "sha256": "47963306e5d9bed7ff6b1e179279a47de727d50e4b3017f6d665297e1d315a7e",
+      "download_bytes": 1358635,
+      "source_commit": "3abae434ebd9545fdbed044613653f917a27c19f"
+    }
+  ]
+}
