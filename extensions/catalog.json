@@ -36,8 +36,8 @@
         "kind": "theme"
       },
       "release_url": "https://raw.githubusercontent.com/xHarmless2/AxmatCord/main/extensions/themes/forest.axmatcord-extension",
-      "sha256": "e2b5bbf741f586e925d2c805d324aa875611b797fc5e5a93270a6c490da700e4",
-      "download_bytes": 1465,
+      "sha256": "dd3980abcfa1c9b4e339e74f10b14634434951cd0219a5259d21b69489331fce",
+      "download_bytes": 1461,
       "source_commit": "3abae434ebd9545fdbed044613653f917a27c19f",
       "preview": {
         "url": "https://raw.githubusercontent.com/xHarmless2/AxmatCord/main/extensions/previews/forest.png",
@@ -57,8 +57,8 @@
         "kind": "theme"
       },
       "release_url": "https://raw.githubusercontent.com/xHarmless2/AxmatCord/main/extensions/themes/golden.axmatcord-extension",
-      "sha256": "6483b454a53358cabaebc4d1d1b27120ad2848eb636bb4dcb5021b78a2af70f9",
-      "download_bytes": 1799,
+      "sha256": "f895a1451dbc70874485d3ac74613b595ca11138ab0bd04399b8753b4564676c",
+      "download_bytes": 1795,
       "source_commit": "3abae434ebd9545fdbed044613653f917a27c19f",
       "preview": {
         "url": "https://raw.githubusercontent.com/xHarmless2/AxmatCord/main/extensions/previews/golden.png",
@@ -78,8 +78,8 @@
         "kind": "theme"
       },
       "release_url": "https://raw.githubusercontent.com/xHarmless2/AxmatCord/main/extensions/themes/katana.axmatcord-extension",
-      "sha256": "610b97a1547397f0b13f32ca9fc94d5e63e4fb8d4bfe260f4697e2637bed91fb",
-      "download_bytes": 999,
+      "sha256": "8dfbf6c5ef39620de8dc90d5ce856a98efebefbc158367a792c10e19396e4a6e",
+      "download_bytes": 995,
       "source_commit": "3abae434ebd9545fdbed044613653f917a27c19f",
       "preview": {
         "url": "https://raw.githubusercontent.com/xHarmless2/AxmatCord/main/extensions/previews/katana.png",
@@ -99,8 +99,8 @@
         "kind": "theme"
       },
       "release_url": "https://raw.githubusercontent.com/xHarmless2/AxmatCord/main/extensions/themes/latte.axmatcord-extension",
-      "sha256": "abc88a29b758880ea15a863b64ea238cec753df47f0fb269826fe778d27efd8b",
-      "download_bytes": 1463,
+      "sha256": "51b62ee6f1f9f72b9f677fd4b2909c82dd773c9a6af82618d8f0955a41579912",
+      "download_bytes": 1459,
       "source_commit": "3abae434ebd9545fdbed044613653f917a27c19f",
       "preview": {
         "url": "https://raw.githubusercontent.com/xHarmless2/AxmatCord/main/extensions/previews/latte.png",
@@ -120,8 +120,8 @@
         "kind": "theme"
       },
       "release_url": "https://raw.githubusercontent.com/xHarmless2/AxmatCord/main/extensions/themes/midnight.axmatcord-extension",
-      "sha256": "127718a48b3b526e8d54c6e2ce6f0a3c65e7a307616b56c52b4d14349be65eb4",
-      "download_bytes": 1469,
+      "sha256": "6c4329a9d73c618bc43a78c3a731dab993e98f9e93c01e7811f5602c8d57d95a",
+      "download_bytes": 1465,
       "source_commit": "3abae434ebd9545fdbed044613653f917a27c19f",
       "preview": {
         "url": "https://raw.githubusercontent.com/xHarmless2/AxmatCord/main/extensions/previews/midnight.png",
@@ -141,8 +141,8 @@
         "kind": "theme"
       },
       "release_url": "https://raw.githubusercontent.com/xHarmless2/AxmatCord/main/extensions/themes/obsidian.axmatcord-extension",
-      "sha256": "9f07e53ee109d0ea1fde0534fbc9eb3bebdbe776d46349680d8dee9aaf626150",
-      "download_bytes": 1843,
+      "sha256": "206646fdcb9ef2a602e162849684cfd7d09d80f676b70be4d4a30258f97cfa11",
+      "download_bytes": 1839,
       "source_commit": "3abae434ebd9545fdbed044613653f917a27c19f",
       "preview": {
         "url": "https://raw.githubusercontent.com/xHarmless2/AxmatCord/main/extensions/previews/obsidian.png",
@@ -162,8 +162,8 @@
         "kind": "theme"
       },
       "release_url": "https://raw.githubusercontent.com/xHarmless2/AxmatCord/main/extensions/themes/ocean.axmatcord-extension",
-      "sha256": "dae37bfdd29827819502a3738c98c69bc21774341757159b9930262a7eec66b1",
-      "download_bytes": 969,
+      "sha256": "860969f99f490a86ee2f70ab6feb5bc3da525f77ca5573bc088afa8feb2f1828",
+      "download_bytes": 965,
       "source_commit": "3abae434ebd9545fdbed044613653f917a27c19f",
       "preview": {
         "url": "https://raw.githubusercontent.com/xHarmless2/AxmatCord/main/extensions/previews/ocean.png",
@@ -183,8 +183,8 @@
         "kind": "theme"
       },
       "release_url": "https://raw.githubusercontent.com/xHarmless2/AxmatCord/main/extensions/themes/rose.axmatcord-extension",
-      "sha256": "2d8b84d5377ff3e6f2ca6a174c470a7559766f025be2ccdcd8c85a9b91756a97",
-      "download_bytes": 1461,
+      "sha256": "1e9f07d158e06fe603640aa47291bb737761d5e063cbd28b4bbdac2b32e0b810",
+      "download_bytes": 1457,
       "source_commit": "3abae434ebd9545fdbed044613653f917a27c19f",
       "preview": {
         "url": "https://raw.githubusercontent.com/xHarmless2/AxmatCord/main/extensions/previews/rose.png",
@@ -206,8 +206,8 @@
         "actions": []
       },
       "release_url": "https://raw.githubusercontent.com/xHarmless2/AxmatCord/main/extensions/themes/soft-white.axmatcord-extension",
-      "sha256": "e2555a9621025270e5bfe8d3f93b41704a12b3b3b60b7dfa724550c7f53f3caf",
-      "download_bytes": 5860523,
+      "sha256": "2e088f46594dcd36f9877eabd3eaf1d0309cb6f05a0962dc350b5d8f2b22c630",
+      "download_bytes": 5860519,
       "source_commit": "3abae434ebd9545fdbed044613653f917a27c19f",
       "preview": {
         "url": "https://raw.githubusercontent.com/xHarmless2/AxmatCord/main/extensions/previews/soft-white.png",
@@ -227,8 +227,8 @@
         "kind": "theme"
       },
       "release_url": "https://raw.githubusercontent.com/xHarmless2/AxmatCord/main/extensions/themes/teal.axmatcord-extension",
-      "sha256": "d1ea3d682e0f03e32c1f234d207dafbf5c318df3f4e58a5c6ed029d78a82d53b",
-      "download_bytes": 1832,
+      "sha256": "2c0f634612a800d1103224d2607dedfd90deb2148f3eee5fb36a86674883cea1",
+      "download_bytes": 1828,
       "source_commit": "3abae434ebd9545fdbed044613653f917a27c19f",
       "preview": {
         "url": "https://raw.githubusercontent.com/xHarmless2/AxmatCord/main/extensions/previews/teal.png",
@@ -269,8 +269,8 @@
         ]
       },
       "release_url": "https://raw.githubusercontent.com/xHarmless2/AxmatCord/main/extensions/plugins/packages/api-proxy.axmatcord-extension",
-      "sha256": "c6ba0d1df5ae940857d0df1dbe38a4c02665a3ad5b21c0876e33e5d399acae1b",
-      "download_bytes": 920987,
+      "sha256": "835b0ac4286aeedd9838a1516efc7c2e230ae55610e38ff18bc6e379ea76c0e1",
+      "download_bytes": 920983,
       "source_commit": "3abae434ebd9545fdbed044613653f917a27c19f",
       "preview": {
         "url": "https://raw.githubusercontent.com/xHarmless2/AxmatCord/main/extensions/previews/api-proxy.png",
@@ -326,8 +326,8 @@
         ]
       },
       "release_url": "https://raw.githubusercontent.com/xHarmless2/AxmatCord/main/extensions/plugins/packages/custom-rpc.axmatcord-extension",
-      "sha256": "927be8bb6bf25d00753a8e9544885b6fd63d902b8f611741641cb6517ff3e134",
-      "download_bytes": 409143,
+      "sha256": "c1ed6a784aaf6483ad3d88ebd69ae27c70c3b845c78debe7c13fd8aa15735bc9",
+      "download_bytes": 409139,
       "source_commit": "3abae434ebd9545fdbed044613653f917a27c19f",
       "preview": {
         "url": "https://raw.githubusercontent.com/xHarmless2/AxmatCord/main/extensions/previews/custom-rpc.png",
@@ -374,8 +374,8 @@
         ]
       },
       "release_url": "https://raw.githubusercontent.com/xHarmless2/AxmatCord/main/extensions/plugins/packages/external-search-tools.axmatcord-extension",
-      "sha256": "1bf9ef0f1b4508ed007b357e94e95a264c2a2bfc209151cf01d30792b7e1b62b",
-      "download_bytes": 1853140,
+      "sha256": "a84daf97e60938f4562406565ea35aee875f23843823d71e970d5b74d9af8091",
+      "download_bytes": 1853136,
       "source_commit": "3abae434ebd9545fdbed044613653f917a27c19f"
     },
     {
@@ -400,8 +400,8 @@
         ]
       },
       "release_url": "https://raw.githubusercontent.com/xHarmless2/AxmatCord/main/extensions/plugins/packages/message-delete-protector.axmatcord-extension",
-      "sha256": "8d40f736e95025c38a4f9cce68ab43ec57cc5c5a2eb2c0274b1a0426d39c87f2",
-      "download_bytes": 338115,
+      "sha256": "32e4f6b8eaed7cbc037b0a6523d374887c36e7a1daa7da7127a6b13d1d500dcf",
+      "download_bytes": 338111,
       "source_commit": "3abae434ebd9545fdbed044613653f917a27c19f",
       "preview": {
         "url": "https://raw.githubusercontent.com/xHarmless2/AxmatCord/main/extensions/previews/message-delete-protector.png",
@@ -451,8 +451,8 @@
         ]
       },
       "release_url": "https://raw.githubusercontent.com/xHarmless2/AxmatCord/main/extensions/plugins/packages/offline-composer-tools.axmatcord-extension",
-      "sha256": "d8f9b2e8707f8782978c2a3d70cb22b116b090bc94dffd5201d4e4ff3ad1be74",
-      "download_bytes": 1157208,
+      "sha256": "21bc38237fa26840826bdca72ff1f0a79b8467fa742a9f531ee8681f0ccca95b",
+      "download_bytes": 1157204,
       "source_commit": "3abae434ebd9545fdbed044613653f917a27c19f"
     },
     {
@@ -518,8 +518,8 @@
         ]
       },
       "release_url": "https://raw.githubusercontent.com/xHarmless2/AxmatCord/main/extensions/plugins/packages/text-commands.axmatcord-extension",
-      "sha256": "08bb231c675d52fc9028c96150ce54f031addc768fc2d62744eaa3ba01e00d82",
-      "download_bytes": 596366,
+      "sha256": "094554e8da28c9b01c79e275ee3e2a600a27f623f9d756d40195b883a7485228",
+      "download_bytes": 596362,
       "source_commit": "3abae434ebd9545fdbed044613653f917a27c19f"
     },
     {
@@ -544,8 +544,8 @@
         ]
       },
       "release_url": "https://raw.githubusercontent.com/xHarmless2/AxmatCord/main/extensions/plugins/packages/view-raw-message.axmatcord-extension",
-      "sha256": "47963306e5d9bed7ff6b1e179279a47de727d50e4b3017f6d665297e1d315a7e",
-      "download_bytes": 1358635,
+      "sha256": "b8005952bdb4b2f60d734b6769b74a9e9749437e5c05fa8cccebe850961593de",
+      "download_bytes": 1358631,
       "source_commit": "3abae434ebd9545fdbed044613653f917a27c19f"
     }
   ]
